@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Which keyword is used to define a function in Python?",
+    "options": ["func", "define", "def", "function"],
+    "answer": "def",
+    "explanation": "Python uses the def keyword to define a function."
+  },
+  {
+    "question": "Which Python data type stores key-value pairs?",
+    "options": ["List", "Tuple", "Set", "Dictionary"],
+    "answer": "Dictionary",
+    "explanation": "A dictionary stores information in key-value pairs."
+  },
+  {
+    "question": "Which library is used for numerical calculations in Python?",
+    "options": ["NumPy", "Flask", "Requests", "Pygame"],
+    "answer": "NumPy",
+    "explanation": "NumPy is used for numerical computing and arrays."
+  },
+  {
+    "question": "What does SQL stand for?",
+    "options": [
+      "Structured Query Language",
+      "Simple Question Logic",
+      "Standard Queue List",
+      "System Query Link"
+    ],
+    "answer": "Structured Query Language",
+    "explanation": "SQL is used to manage relational databases."
+  },
+  {
+    "question": "Which HTTP method retrieves data from an API?",
+    "options": ["POST", "GET", "DELETE", "PATCH"],
+    "answer": "GET",
+    "explanation": "GET requests are used to retrieve information."
+  },
+  {
+    "question": "Which statement handles exceptions in Python?",
+    "options": ["try-except", "if-else", "for-while", "def-return"],
+    "answer": "try-except",
+    "explanation": "Try-except handles runtime errors."
+  },
+  {
+    "question": "Which format is commonly used for API data exchange?",
+    "options": ["MP3", "PNG", "JSON", "EXE"],
+    "answer": "JSON",
+    "explanation": "JSON is a lightweight data exchange format."
+  },
+  {
+    "question": "Which command installs Python packages?",
+    "options": [
+      "pip add package",
+      "pip install package",
+      "python get package",
+      "install python package"
+    ],
+    "answer": "pip install package",
+    "explanation": "Pip is used to install Python packages."
+  },
+  {
+    "question": "What is the purpose of a primary key?",
+    "options": [
+      "Format text",
+      "Uniquely identify each row",
+      "Encrypt columns",
+      "Sort files"
+    ],
+    "answer": "Uniquely identify each row",
+    "explanation": "A primary key uniquely identifies database records."
+  },
+  {
+    "question": "Which Python framework can create interactive web applications?",
+    "options": ["Streamlit", "SQLite", "NumPy", "Git"],
+    "answer": "Streamlit",
+    "explanation": "Streamlit creates interactive web applications using Python."
+  }
+]
